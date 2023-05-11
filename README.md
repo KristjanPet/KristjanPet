@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there my name is Kristjan Petauer 👋
+- 🌱 I’m currently learning full stack development with Nodejs & Reactjs
 <!--
 **KristjanPet/KristjanPet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
