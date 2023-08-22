@@ -12,4 +12,4 @@ I'm currently a passionate student on a quest to turn my passion for computer sc
 # Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,python,java,kotlin,html,php,css,js,ts,nextjs,nodejs,react,tailwind,mysql,postgresql,dotnet)](https://skillicons.dev)
 # Tools 
-[![My Tools](https://skillicons.dev/icons?i=androidstudio,arduino,atom,bash,discord,docker,git,github,idea,stackoverflow,vscode,visualstudio)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,androidstudio,discord,idea,stackoverflow,vscode,visualstudio)](https://skillicons.dev)
