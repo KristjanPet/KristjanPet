@@ -2,7 +2,7 @@
 
 I'm currently a passionate student on a quest to turn my passion for computer science into a career. I'm eagerly seeking opportunities to contribute to exciting projects and gain real-world experience as I work toward earning my bachelor's degree.
 
-👨‍🎓 **Education**: Univerza v Mariboru - Oct 2020 - CURRENT
+👨‍🎓 **Education**: Univerza v Mariboru - Oct 2020 - Oct 2023
   - Bachelor of Science in Computer Science and Information Technologies
 
 💼 **Career Aspirations**: I'm particularly interested in roles that involve C++ development, computer vision, artificial intelligence (AI), and backend development. I'm fascinated by the endless possibilities these fields offer and am eager to make my mark in the tech industry.
