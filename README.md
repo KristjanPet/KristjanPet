@@ -1,15 +1,37 @@
-### About Me
+# About Me
 
-I'm currently a passionate student on a quest to turn my passion for computer science into a career. I'm eagerly seeking opportunities to contribute to exciting projects and gain real-world experience as I work toward earning my bachelor's degree.
+### ⚙️ Embedded Software / Firmware Developer
 
-👨‍🎓 **Education**: Univerza v Mariboru - Oct 2020 - Oct 2023
-  - Bachelor of Science in Computer Science and Information Technologies
+I'm a software developer focused on **embedded C/C++, low-level systems, and computer architecture**.
 
-💼 **Career Aspirations**: I'm particularly interested in roles that involve C++ development, computer vision, artificial intelligence (AI), and backend development. I'm fascinated by the endless possibilities these fields offer and am eager to make my mark in the tech industry.
+I enjoy understanding how software interacts with hardware — from MCU peripherals and communication protocols to debugging, electronics, and PCB design.
 
-📚 **Continuous Learner**: I have a strong passion for learning and thrive on the challenges that come with staying at the cutting edge of technology. Every day, I strive to improve my skills and explore new horizons in the world of coding and software development.
+### 🔧 Current focus
 
-# Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,python,java,kotlin,html,php,css,js,ts,nextjs,nodejs,react,tailwind,mysql,postgresql,dotnet)](https://skillicons.dev)
-# Tools 
-[![My Tools](https://skillicons.dev/icons?i=git,github,androidstudio,discord,idea,stackoverflow,vscode,visualstudio)](https://skillicons.dev)
+* Embedded **C/C++** and modern C++
+* Microcontrollers, peripherals, interrupts, timers, DMA, and communication protocols
+* **RTOS and bare-metal** development
+* Hardware/software debugging and system integration
+* **Computer architecture**
+
+### 🧠 Also interested in
+
+**Computer vision and AI** — areas I explored at university and plan to return to as I continue strengthening my low-level systems knowledge.
+
+### 🤝 Open to
+
+Embedded/firmware opportunities and **open-source collaboration**, especially projects where I can contribute practical work and learn from other developers.
+
+### 🛠️ Currently working on
+
+Building a small processor to deepen my understanding of computer architecture from the ground up.
+
+### 📚 Currently reading
+
+- *Real-Time C++* — Christopher Kormanyos
+- *Deep Work* — Cal Newport
+
+### 🎓 Education
+
+**B.Sc. in Computer Science and Information Technologies**
+University of Maribor, 2023
