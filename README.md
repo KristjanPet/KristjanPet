@@ -29,7 +29,7 @@ Building a small processor to deepen my understanding of computer architecture f
 ### 📚 Currently reading
 
 - *Real-Time C++* — Christopher Kormanyos
-- *Deep Work* — Cal Newport
+- *The Pragmatic Programmer* —  Andy Hunt & Dave Thomas
 
 ### 🎓 Education
 
