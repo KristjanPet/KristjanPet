@@ -24,7 +24,7 @@ Embedded/firmware opportunities and **open-source collaboration**, especially pr
 
 ### 🛠️ Currently working on
 
-Building a small processor to deepen my understanding of computer architecture from the ground up.
+Developing small SleepLab monitoring device, to measure room factors during sleep, using STM32 and Zephyr.
 
 ### 📚 Currently reading
 
